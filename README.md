@@ -1,8 +1,8 @@
 ###Instalação
 É necessário baixar os arquivos do repositório depois instalar os módulos necessários para o funcionamento usando o comando:
-> Npm install
+> Npm install  
 Com os módulos baixados para iniciar use o comando 
-> npm start
+> npm start  
 
 ###Sobre o Projeto
 Pokebras é uma pokedex com os 151 primeiros pokémons, a página inicial ( ‘/’ ) tem uma lista com os pokémons das primeira geração contendo nome, número e tipo. Ao clicar no card de um respectivo pokémon você poderá ver alguns detalhes do mesmo. Na página de detalhes está disponível algumas entries do jogos, stats base dos Pokémon, 2 gráficos das fraquezas e forças e algumas informações sobre o(s) tipo(s) do Pokémon.
