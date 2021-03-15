@@ -16,6 +16,6 @@ Components > Pasta para guardar os componentes desenvolvidos
 Images > Pasta para guardar as imagens usadas no sistemas.
 Pages > Pasta para guardar as páginas renderizadas pelo Router
 Stype > Pasta para guardas os estilos dos componentes
-Store > Pasta usada para guardar os arquivos referentes ao redux (actions, reducers e store)
+Store > Pasta usada para guardar os arquivos referentes ao redux (actions, reducers e store).
  
 
