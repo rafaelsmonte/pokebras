@@ -9,13 +9,13 @@ Pokebras é uma pokedex com os 151 primeiros pokémons, a página inicial ( ‘/
 Na página about você irá encontrar minhas redes sociais e meu Github.
 
 ###Arquitetura      
-Projeto desenvolvido usando Material-UI como lib de UI e Redux para gerenciar states.
-O projeto é divido em várias pastas para melhor entendimento.
-Assets > Pasta para algumas funcionalidades que servem de apoio para o sistema (CSS, Formatadores de texto e Services)
-Components > Pasta para guardar os componentes desenvolvidos
-Images > Pasta para guardar as imagens usadas no sistemas.
-Pages > Pasta para guardar as páginas renderizadas pelo Router
-Stype > Pasta para guardas os estilos dos componentes
-Store > Pasta usada para guardar os arquivos referentes ao redux (actions, reducers e store).
+Projeto desenvolvido usando Material-UI como lib de UI e Redux para gerenciar states.  
+O projeto é divido em várias pastas para melhor entendimento.  
+Assets > Pasta para algumas funcionalidades que servem de apoio para o sistema (CSS, Formatadores de texto e Services)  
+Components > Pasta para guardar os componentes desenvolvidos  
+Images > Pasta para guardar as imagens usadas no sistemas.  
+Pages > Pasta para guardar as páginas renderizadas pelo Router  
+Stype > Pasta para guardas os estilos dos componentes  
+Store > Pasta usada para guardar os arquivos referentes ao redux (actions, reducers e store).  
  
 
